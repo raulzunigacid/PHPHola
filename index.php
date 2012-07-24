@@ -1,3 +1,3 @@
 <?php
-echo "Hola Mundo en PHP 123";
+echo "Hola Mundo en PHP";
 ?>
